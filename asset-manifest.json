@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty-wiki/static/css/main.9575e169.chunk.css",
+    "main.js": "/rick-and-morty-wiki/static/js/main.ae5f38b7.chunk.js",
+    "main.js.map": "/rick-and-morty-wiki/static/js/main.ae5f38b7.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-wiki/static/js/runtime-main.1a5434ab.js",
+    "runtime-main.js.map": "/rick-and-morty-wiki/static/js/runtime-main.1a5434ab.js.map",
+    "static/js/2.9520f55e.chunk.js": "/rick-and-morty-wiki/static/js/2.9520f55e.chunk.js",
+    "static/js/2.9520f55e.chunk.js.map": "/rick-and-morty-wiki/static/js/2.9520f55e.chunk.js.map",
+    "index.html": "/rick-and-morty-wiki/index.html",
+    "static/css/main.9575e169.chunk.css.map": "/rick-and-morty-wiki/static/css/main.9575e169.chunk.css.map",
+    "static/js/2.9520f55e.chunk.js.LICENSE.txt": "/rick-and-morty-wiki/static/js/2.9520f55e.chunk.js.LICENSE.txt",
+    "static/media/id1.png": "/rick-and-morty-wiki/static/media/id1.30ce8617.png",
+    "static/media/id10.png": "/rick-and-morty-wiki/static/media/id10.c713cbc2.png",
+    "static/media/id11.png": "/rick-and-morty-wiki/static/media/id11.fb1c0015.png",
+    "static/media/id12.png": "/rick-and-morty-wiki/static/media/id12.46532af5.png",
+    "static/media/id13.png": "/rick-and-morty-wiki/static/media/id13.4d206a97.png",
+    "static/media/id14.png": "/rick-and-morty-wiki/static/media/id14.b085677e.png",
+    "static/media/id17.png": "/rick-and-morty-wiki/static/media/id17.e1759873.png",
+    "static/media/id18.png": "/rick-and-morty-wiki/static/media/id18.389bc5f2.png",
+    "static/media/id19.png": "/rick-and-morty-wiki/static/media/id19.b933c9ad.png",
+    "static/media/id2.png": "/rick-and-morty-wiki/static/media/id2.d7a94c56.png",
+    "static/media/id3.png": "/rick-and-morty-wiki/static/media/id3.9d7c14a3.png",
+    "static/media/id4.png": "/rick-and-morty-wiki/static/media/id4.03b62883.png",
+    "static/media/id5.png": "/rick-and-morty-wiki/static/media/id5.cff605ed.png",
+    "static/media/id6.png": "/rick-and-morty-wiki/static/media/id6.5be6803e.png",
+    "static/media/id7.png": "/rick-and-morty-wiki/static/media/id7.7f6c05af.png",
+    "static/media/id8.png": "/rick-and-morty-wiki/static/media/id8.fd770458.png",
+    "static/media/id9.png": "/rick-and-morty-wiki/static/media/id9.ce416940.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a5434ab.js",
+    "static/js/2.9520f55e.chunk.js",
+    "static/css/main.9575e169.chunk.css",
+    "static/js/main.ae5f38b7.chunk.js"
+  ]
+}
