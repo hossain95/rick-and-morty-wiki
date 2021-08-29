@@ -1,0 +1,111 @@
+.profile-card-img
+{
+  background: var(--mainWhite);
+  box-shadow: var(--lightShadow);
+  transition: var(--mainTransition);
+  border-radius: var(--mainBorderRadius);
+  width: 420px;
+}
+.profile-card-info
+{
+  background: var(--mainWhite);
+  box-shadow: var(--lightShadow);
+  transition: var(--mainTransition);
+  border-radius: var(--mainBorderRadius);
+  width: 420px;
+  padding: 20px;
+}
+.profile-card-info:hover
+{
+  box-shadow: var(--darkShadow);
+}
+.profile-card-img:hover
+{
+  box-shadow: var(--darkShadow);
+}
+.card-profile-section
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+.proflie-info-name
+{
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+  color: #03AFC9;
+}
+.profile-card-info code
+{
+  padding-right: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  color:cadetblue;
+}
+.header
+{
+    text-align: center;
+    width: 100%;
+    font-size: 24px;
+    color: darkgreen;
+}
+.card-center
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.episode-card
+{
+  background: var(--mainWhite);
+  box-shadow: var(--lightShadow);
+  transition: var(--mainTransition);
+  border-radius: var(--mainBorderRadius);
+  width: 420px;
+  padding: 20px;
+  width: 60%;
+  margin-bottom: 40px;
+}
+
+
+  @media screen and (max-width: 700px) {
+    .episode-card
+    {
+        background: var(--mainWhite);
+        box-shadow: var(--lightShadow);
+        transition: var(--mainTransition);
+        border-radius: var(--mainBorderRadius);
+        width: 500px;
+        padding: 20px;
+        width: 80%;
+        margin-bottom: 40px;
+    }
+  }
+  @media screen and (max-width: 550px) {
+    .episode-card
+    {
+        background: var(--mainWhite);
+        box-shadow: var(--lightShadow);
+        transition: var(--mainTransition);
+        border-radius: var(--mainBorderRadius);
+        width: 500px;
+        padding: 20px;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+  }
+  .episode-style
+  {
+      padding-left: 10px;
+      font-size: 16px;
+      font-weight: bold;
+}
+
+.episode-card:hover
+{
+  box-shadow: var(--darkShadow);
+}
