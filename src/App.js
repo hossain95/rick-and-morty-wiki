@@ -15,6 +15,7 @@ function App()
     <Switch>
       <Route exact path="/"> <Home /></Route>
       <Route path="/home"> <Home /></Route>
+      <Route path="/rick-and-morty-wiki"> <Home /></Route>
       <Route path="/characters"> <Characters /></Route>
       <Route path="/character/:id"> <Character /> </Route>
       <Route path="/episodes"> <Episodes /></Route>
